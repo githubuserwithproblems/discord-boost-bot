@@ -4,6 +4,9 @@ Works like all other boosts bots on the market!
 We don't support it or use it anymore, you could start a b00sting buisness out of it!
 (Tokens in the bot are not valid anymore, just for showcase reasons!)
 
+If you have questions join our discord and open a ticket. Yeas its a german server.
+https://discord.gg/lacity
+
 This Bot supports following commands:
 
 Help (/help):
