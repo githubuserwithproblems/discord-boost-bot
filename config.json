@@ -1,0 +1,14 @@
+{
+    "token": "YOURTOKEN HERE",
+    "owner": "",
+    "guild_id": "",
+    "capmonster_key": "CAI-DB5EB4976F409F62852F74D8F6C7307E <-- not working",
+    "server_nick": ".gg/lacity",
+    "change_server_nick": true,
+    "proxyless": true,
+    "field_name_invite": "Invite",
+    "order_logs": "",
+    "failed_boosts": "",
+    "boosts_logs": "",
+    "activity": "Using Free Boosting Tool"
+}
