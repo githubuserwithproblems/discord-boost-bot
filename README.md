@@ -1,5 +1,8 @@
 # DISCORD BOOST BOT
 This is the popular boost bot on discord, others selling this for 100$ and try to scam!
+Works like all other boosts bots on the market!
+We don't support it or use it anymore, you could start a b00sting buisness out of it!
+(Tokens in the bot are not valid anymore, just for showcase reasons!)
 
 This Bot supports following commands:
 
